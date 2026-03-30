@@ -1,4 +1,4 @@
-# Hi, I'm Ilham
+# Hi, I'm Gumay
 
 Final-year Informatics Engineering student with hands-on experience as an Automation Engineer and Backend Programmer. I build QA automation for web, mobile, and API testing using Appium, Puppeteer, Selenium, and Node.js, while also working on backend systems, REST APIs, debugging, and bug analysis.
 
