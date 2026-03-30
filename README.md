@@ -45,6 +45,12 @@ Open to opportunities in:
 - Software Quality Assurance
 - Backend-related roles with strong testing focus
 
+## Current Focus
+
+- Building QA automation projects that are easy to review and run
+- Improving API validation workflows and test reliability
+- Strengthening mobile and web automation through practical portfolio work
+
 ## Contact
 
 - Email: `ilham.gumay619@gmail.com`
