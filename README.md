@@ -7,14 +7,14 @@ I am currently focused on growing as a QA Engineer, especially in QA Automation,
 ## What I Work With
 
 - QA automation for web, mobile, and API testing
-- Appium, Puppeteer, Selenium, Jest, and API validation
+- Appium, Puppeteer, Selenium, and API validation
 - Node.js and Express.js backend development
 - Debugging, bug analysis, and issue investigation
 - Jira, Git, technical documentation, and Agile workflow
 
 ## Tech Stack
 
-`Appium` `Puppeteer` `Selenium` `Jest` `API Testing` `Node.js` `Express.js` `GitHub Actions` `Jira` `MongoDB`
+`Appium` `Puppeteer` `Selenium` `API Testing` `Node.js` `Express.js` `GitHub Actions` `Jira` `MongoDB`
 
 ## Featured Projects
 
