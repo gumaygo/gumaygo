@@ -22,6 +22,12 @@ I am currently focused on growing as a QA Engineer, especially in QA Automation,
 
 `Appium` `Puppeteer` `Selenium` `API Testing` `Node.js` `Express.js` `GitHub Actions` `Jira` `MongoDB`
 
+## Strengths
+
+- Strong understanding of backend flow and API behavior from engineering experience
+- Comfortable investigating issues through debugging, logs, and system behavior
+- Focused on building practical automation that is stable, readable, and reusable
+
 ## Featured Projects
 
 - [QA Automation Showcase](https://github.com/gumaygo/qa-automation-showcase)  
