@@ -1,5 +1,11 @@
 # Hi, I'm Gumay
 
+![QA Automation](https://img.shields.io/badge/QA-Automation-1f6feb?style=flat-square)
+![Backend Engineer](https://img.shields.io/badge/Backend-Engineer-0a7ea4?style=flat-square)
+![Appium](https://img.shields.io/badge/Appium-Mobile_Testing-662d91?style=flat-square)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-UI_Testing-40b5a4?style=flat-square)
+![API Testing](https://img.shields.io/badge/API-Testing-f59e0b?style=flat-square)
+
 Final-year Informatics Engineering student with hands-on experience as an Automation Engineer and Backend Programmer. I build QA automation for web, mobile, and API testing using Appium, Puppeteer, Selenium, and Node.js, while also working on backend systems, REST APIs, debugging, and bug analysis.
 
 I am currently focused on growing as a QA Engineer, especially in QA Automation, with strong interest in reliable test workflows, CI integration, and scalable automation tooling.
