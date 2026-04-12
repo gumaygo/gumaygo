@@ -2,7 +2,7 @@
 
 # Gumay
 
-### QA Automation Engineer in progress, building practical tools for API, mobile, and test reliability
+### QA Automation Engineer | Building practical tools for API, mobile, and test reliability
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=1F6FEB&center=true&vCenter=true&width=900&lines=I+build+automation+for+web%2C+mobile%2C+and+API+testing;I+care+about+reliable+test+workflows%2C+CI%2C+and+quality+gates;I+like+turning+testing+problems+into+reusable+tools)](https://git.io/typing-svg)
 
@@ -33,23 +33,25 @@ I am an automation-focused engineer with hands-on work in QA, backend systems, a
 ## Toolbox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,python,selenium,githubactions,mongodb,git,postman" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,python,docker,redis,githubactions,mongodb,git,postman" />
 </p>
 
-`Appium` `WebdriverIO` `Puppeteer` `ADB` `Express.js` `API Testing` `CI Workflows`
+`Appium` `WebdriverIO` `Puppeteer` `Playwright` `ADB` `Express.js` `API Testing` `CI Workflows` `k6`
 
 ## Featured Work
 
 | Project | Why it matters |
 | --- | --- |
+| [SPARTA](https://github.com/gumaygo/SPARTA) | Session orchestration for parallel Android QA with Appium — monorepo, tests, CI, Docker, OpenAPI, benchmarks |
 | [api-guardrail](https://github.com/gumaygo/api-guardrail) | API quality toolkit for validation, contract checks, reporting, and load-aware testing workflows |
 | [daptor](https://github.com/gumaygo/daptor) | Android test orchestration CLI for parallel Appium execution with device and port management |
-| [proxy-checker](https://github.com/gumaygo/proxy-checker) | Concurrent CLI that shows engineering depth in validation, retries, and structured output handling |
-| [resource-usage](https://github.com/gumaygo/resource-usage) | Backend-oriented project that supports my debugging and systems understanding |
+| [qa-automation-showcase](https://github.com/gumaygo/qa-automation-showcase) | Portfolio project combining API contract testing, UI smoke testing, HTML reports, and CI |
+| [proxy-checker](https://github.com/gumaygo/proxy-checker) | Concurrent proxy validator CLI with protocol detection, retries, and structured output |
+| [resource-usage](https://github.com/gumaygo/resource-usage) | System resource monitor with Express API and MongoDB — backend debugging and observability |
 
 ## Current Direction
 
-- Sharpening my GitHub around QA Automation and SDET work
+- Strengthening test coverage and CI across all portfolio projects
 - Expanding real-world UI and API regression examples
 - Improving reliability, observability, and reporting in test workflows
 - Building projects that show both QA thinking and engineering depth
